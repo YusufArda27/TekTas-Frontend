@@ -7,15 +7,15 @@ body {
     margin:0;
     padding:0;
 }
-
+   
 ul {
-    
     list-style-type: none;
-    width: 2000px;
+    top:0;
+    
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #EE2B47;
+    background-color: #333;
   }
   
   li {
@@ -30,12 +30,8 @@ ul {
     text-decoration: none;
   }
   
-  
   li a:hover {
-    background-color: #99182c;
-  }
-  .active {
-    background-color: #4CAF50;
+    background-color: #111;
   }
 h1 {
     font-size: 48px;
