@@ -11,6 +11,7 @@ body {
 ul {
     
     list-style-type: none;
+    width: 2000px;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -37,12 +38,12 @@ ul {
     background-color: #4CAF50;
   }
 h1 {
-    font-size: 64px;
+    font-size: 48px;
     margin-left:50px;
     margin-top:100px;
 }
 p {
-    font-size:32px;
+    font-size:24px;
     margin-left:50px;
     margin-top:0px;
 }
