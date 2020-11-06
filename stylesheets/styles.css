@@ -2,7 +2,44 @@ body {
     background-color: #34374C;
     color: #f6f6f6;
     font-family: 'Roboto', sans-serif;
-    padding-top:  210px;
-    max-width: 680px;
-    margin: 0 auto;
+    
+    margin:0;
+    padding:0;
+}
+
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #EE2B47;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: #99182c;
+  }
+  .active {
+    background-color: #4CAF50;
+  }
+h1 {
+    margin-left:50px;
+    margin-top:100px;
+}
+p {
+    margin-left:50px;
+    margin-top:0px;
 }
