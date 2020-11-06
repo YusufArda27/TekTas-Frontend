@@ -1,6 +1,7 @@
 body {
     background-color: #34374C;
     color: #f6f6f6;
+    display: flex;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Space Grotesk', sans-serif;
     margin:0;
