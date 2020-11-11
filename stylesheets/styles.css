@@ -43,6 +43,28 @@ h1 {
   margin-left:50px;
   margin-top:100px;
 }
+h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Space Mono', monospace;
+  font-size: 36px;
+  margin-left:50px;
+  margin-top:50px;
+}
+h3 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+  margin-left:1000px;
+  margin-top:250px;
+
+
+}
+h6{
+  font-size: 24px;
+  margin-left:1000px;
+  margin-top:0px;
+}
+
 p {
   font-size:24px;
   margin-left:50px;

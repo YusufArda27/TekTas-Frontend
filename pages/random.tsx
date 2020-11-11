@@ -1,8 +1,9 @@
 import Navbar from "../components/NavBar"
+import Profile from "../components/Randoms"
 const Random = ()=>(
     <div>
         <Navbar/>
-        <h1>Prototip</h1>
+        <Profile/>
     </div>
 );
 export default Random;
