@@ -5,7 +5,7 @@ function Profile() {
 
   if (error) return <div>failed to load</div>
   if (!data) return <div>loading...</div>
-  return (<div>
+  return (<div id="container">
       <h1>{data.name}!</h1>
       <h2>{data.author}</h2>
       <h6>{data.about}</h6>
